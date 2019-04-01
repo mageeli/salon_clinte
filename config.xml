@@ -12,7 +12,6 @@
     <plugin name="cordova-plugin-dialogs" />
     <plugin name="cordova-plugin-splashscreen" />
     <plugin name="cordova-plugin-geolocation" />
-    <plugin name="Geolocation" value="org.apache.cordova.GeoBroker" />
     <content src="index.html" />
     <icon src="icon.png" />
     <platform name="android">
